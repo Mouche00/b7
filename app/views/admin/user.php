@@ -222,7 +222,7 @@
     <main class="w-[85%]">
 
         <!--  HEADER  -->
-            <?php include("components/header.html") ?>
+            <?php include("components/header.php") ?>
         <!--  HEADER  -->
         <section class="w-full h-[90%] bg-gray-200 flex justify-center items-center">
             <button id="add" type="button" class="w-14 h-[80%] bg-black text-white text-center rounded-l-lg">
