@@ -22,9 +22,12 @@
     // var_dump($currentAddressId);
     // $address->delete($currentAddressId);
 
-    $user = new User();
+    // $user = new User();
 
-    $currentUser = $user->getId($_SESSION['username']);
+    // $currentUser = $user->getId($_SESSION['username']);
 
-    echo $currentUser;
+    // echo $currentUser;
+
+    print_r($_SERVER);
+    // echo getcwd();
 ?>
